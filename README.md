@@ -1,4 +1,4 @@
-# Inkitt Takehome App 📚
+# over 40 📚
 
 A React Native application built with Expo that displays a filtered and sorted list of people, featuring a modern UI with modal interactions and comprehensive testing.
 
