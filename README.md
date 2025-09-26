@@ -1,5 +1,12 @@
 # over 40 📚
 
+DEMO:
+
+
+https://github.com/user-attachments/assets/def3ded9-3947-4ffb-978f-326b6a9c1923
+
+
+
 A React Native application built with Expo that displays a filtered and sorted list of people, featuring a modern UI with modal interactions and comprehensive testing.
 
 ## 🚀 Features
